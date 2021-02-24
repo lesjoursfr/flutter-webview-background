@@ -1,3 +1,7 @@
+## 2.0.3
+
+* Add an option to set a transparent background for the webview.
+
 ## 2.0.2
 
 * Fixes bug where text fields are hidden behind the keyboard
